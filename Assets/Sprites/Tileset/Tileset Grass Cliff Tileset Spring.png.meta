@@ -1,0 +1,3830 @@
+fileFormatVersion: 2
+guid: 0065e1eb137dcca47a319aca3b0c174b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3276809509469408922
+    second: Tileset Grass Cliff Tileset Spring_0
+  - first:
+      213: 351560878568794475
+    second: Tileset Grass Cliff Tileset Spring_1
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6613477cc1f6682d0800000000000000
+      internalID: -3276809509469408922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b696404a1cef0e400800000000000000
+      internalID: 351560878568794475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10df085229f0d664ab1ebadfa6e35974
+      internalID: 822564991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc984e47de43cbc45bd66c82b6caee25
+      internalID: 559908524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa4cbd9f22afd64b9631c3c1835d147
+      internalID: -1567574383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0732db5bf96d1b479df2d95e55bac95
+      internalID: 827548553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b877dcf6dde9fe04991ecb8bdacbe516
+      internalID: 247073594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f47730210ed9344e87f652b49110075
+      internalID: -482252402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b6fa19d4c0e114b894079f2e213ba0
+      internalID: 1536122226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebbafdaa36d65343a9b6e4bca8d9bf6
+      internalID: 599498981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901d97e6247d0ef439d17078fb08cc93
+      internalID: 1183112647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82bf72909af4744384445cf9e18d36e
+      internalID: 1258008505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f16473911c8594ab62ae0bd5373b49
+      internalID: -1043588057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 288
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297fb8cbcca787a4683786a35533bd0d
+      internalID: 947554717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 289
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79416050986b56040b9c23529e0879a6
+      internalID: -1272985365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ffd0ba718aa7447a96427fc781707a
+      internalID: -1588647557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 289
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434416eeae3838a42b01315e10ccfac4
+      internalID: -56075147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56750e56645651429425fbcad6862ef
+      internalID: -1285378396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e859d2ff56d86d4d949683ceaec9e49
+      internalID: -840289829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d75c903113d524b9b1ae07c82cf8c8
+      internalID: -1700149592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12da855a839db7f43b053928ce4a8b7e
+      internalID: -1721404074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdee1c67cc78a0478fc70db472fc508
+      internalID: -602527279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd7906467a93fb448bc2128447a4a13
+      internalID: -831323075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369f68424ead5e74eb19bda7c3368575
+      internalID: 1758463833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfa293d902a2674aad93d7e02305171
+      internalID: -1353914031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda9f23746321c440bd1efe86974d761
+      internalID: 648634979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbe7a7c8f919b846960ac8164c52a80
+      internalID: -183984249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d25fb86506cc14b988f8f120d0367d
+      internalID: -1249900792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a561ddad6414d2b4784b2ee621ed08e5
+      internalID: 1765762549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47352d53ac60ae741bdfac5d92a4ce8a
+      internalID: -26491374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289a51b2691494d45887a16db6439760
+      internalID: 1983769518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2893c78675c1741847dc6b01c3d04a
+      internalID: 1128278147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99eefe60d41e8b448aca3e98b7d8269
+      internalID: -1566728641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_38
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a2769a988daa540a479b4c04414897
+      internalID: 1010800100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05e2faf9c23c9a488977c985be8a104
+      internalID: 1517063607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_40
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294fa928970a89041b0cac2b0d78327d
+      internalID: -1356413474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7774d70578a8b6448b12d09a6888938
+      internalID: 1532174258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66f7bda943f76c4fa013903e31294e9
+      internalID: 985373853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa61c621fe3a77943a6f8e2772bbc516
+      internalID: 61928980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_44
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4b9e060ec21fd4fbcca0b69447005e
+      internalID: 376763133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 272
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f68b33fd130a7e46a8108534913a5ee
+      internalID: 47865434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 273
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba3d1e8b7e165a43b6db35d4c2d1939
+      internalID: -1202602808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 272
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadbc56f3c6e16440acd205c8890381b
+      internalID: -759931275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 272
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd91c79e54e1894d866912bbce209dd
+      internalID: -232574177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22def89572d602440ac695d1e92f0732
+      internalID: 1982267675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_54
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a195014189c7242a6ddc57cf8df3e8
+      internalID: -1574417961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8344ba663e862541b7d576ce4ac51b1
+      internalID: 1464058100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_56
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730d5ef426956704f90053b9e46a3147
+      internalID: 1347713228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8428a1f8328aba14dbd1be5019b56e32
+      internalID: 195414299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85f56ebd8c31294582860f5c0b3265d
+      internalID: 112264849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33aa3a5551c55dc4587cda6c0f00da43
+      internalID: -1278507677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_60
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfacac9c5328a354caa43256147d9770
+      internalID: 1189350935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ccc944108a9ea43a2a878f64aced49
+      internalID: 1428095683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caeefc00d1507934986ecfb1b1524c03
+      internalID: -1878006065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_63
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ca0ece5821e584ba0633656e337022
+      internalID: -1922846786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_64
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff78cdeeade299647808831281fa2cd0
+      internalID: -275638414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_65
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d5e7f85595493458be180130790944
+      internalID: 453152591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 257
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1cb6fd76fa85749b282a1caf108d1a
+      internalID: 702475896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_69
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 257
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c862a87b99c4fa943a91cc5955a2d5d0
+      internalID: 268302383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_71
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 255
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f1bdfe2642b724d8e7dcd5272b3cf1
+      internalID: 352456478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632cd45c1d502734a89a7b06f61c0f79
+      internalID: -1539424646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_74
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf7dbbb79270cb4ebe6371dfa027f2b
+      internalID: 442467671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f716659c975b5804bb2d9510919ebfee
+      internalID: -878280708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_76
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd11363513365a4f86d619d03891c7d
+      internalID: 371180863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_77
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00cc7c6923cb4b4aa91fb9608f97dc3
+      internalID: -216912728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786d2b757891c59489bb639538eab6bb
+      internalID: -838487641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_79
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376490821a37d304a9f234a9f269c04c
+      internalID: -1886390597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_80
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313b78c808c120a488bfc84e8a8e0634
+      internalID: 1045659535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec27276c7c7d2754ab37bcabe89a0eef
+      internalID: 2044152341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_84
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9f627556ef35849be484ef34641322
+      internalID: -497465509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a698a7f862a3f4392ccda0fe4a3b37
+      internalID: 1627292821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_90
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e6bb8c613e5dd4abe2ef0ad5737f49
+      internalID: 60564092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22652bce6ddca1a4b8c40a9bd4bf55ce
+      internalID: 723142214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_96
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffda96008f29394684b15e0daca50b6
+      internalID: -1424848321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236f46882ea40ea4f85040315dd5a2f2
+      internalID: 482164302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_102
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1d2adbd30ac5f4fa7083c3f7744484
+      internalID: -860157818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3d36fb204761347ac3e3b2346707d7
+      internalID: -1884848861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_108
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b0fea0df301ef4386e0f5931d0cb84
+      internalID: -1441239408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_111
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d6292c19e4ad84d94f9fe14de0b037
+      internalID: -487842842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_114
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 161
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66713638c7f5b984b96d9e3c6ef686d3
+      internalID: 1096552091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e75b7d62bc8d444793cf2ac6df0fb65
+      internalID: 1643285610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_190
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0c9b59d1be97c41b1eb4c110e9da46
+      internalID: 807341493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_191
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647f4358abcdf6347b2792b7564c317b
+      internalID: -1570536942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_192
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ab7b8b09fcf9f409b4ff4d4c5d9833
+      internalID: -970643922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_193
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3c31eb166e2db45bebd7f0cce10c25
+      internalID: 171835731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_194
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5221f5ea52291ad439ff05302b809d49
+      internalID: 1861821321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_195
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c7d6458d94acc459e4458407b33d1f
+      internalID: 1845377251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_196
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a49a906f58e1b844894bd5d8a2f4fb5
+      internalID: -846299426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_197
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2a124de38f1b04a82b148954db3cec
+      internalID: -490523840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_198
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d247e18e2d4844faa606fdbefbe9a0
+      internalID: -1616807441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_199
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1334b01865496bc42911ad4ea913022a
+      internalID: 1401971331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_200
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e560f79f7c93fd49b1bb09bfb42be31
+      internalID: -1211686283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_201
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5903603a7a4cc41bc5af1cab6709bc
+      internalID: 1457302435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_202
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fef7f76d6218d40ad7ebd5d8d5e1ae
+      internalID: 105841154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_203
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 129
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc0e06d381b16a44b7dfdb9fae112ff
+      internalID: -1261218004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_204
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 129
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ceb0a9d3823b8a4cbdf582c00d5aea6
+      internalID: -928392338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_205
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 129
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b60c93b73dde6f4eac6621284ec83f4
+      internalID: -1446519859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_206
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da454b8a5c7d8654ba61ac247aaa9cff
+      internalID: 1921089388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_207
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a744d4eb69e234c88584442fb94677
+      internalID: 753398268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_208
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8791e46a65e4a954a84a16f406e8c31c
+      internalID: 1768837932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_209
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e3af0c9fbe4a645aff3c004ccc4c10
+      internalID: 16140654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_210
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fdaed03492a6c4c8163343118a0303
+      internalID: 74327096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_211
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dab70c72a72d67489f2c2850c201140
+      internalID: -1118173431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_212
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937195d7c82164344be32bbaca726155
+      internalID: 1082905409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_213
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66f18071473a7940b843adf14a26724
+      internalID: -304188962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_214
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193c3bb81876ce44ebc54d53236479b2
+      internalID: -1918393384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_215
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d18e7da31de0e4e8fdbfa0f3f7aecb
+      internalID: -408165417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_216
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d159df9941656f458cebb2fb1177e2f
+      internalID: -359347839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_222
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf01e7fef49eba14db21484eddaf062e
+      internalID: -78824972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_223
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b900c58ec199204caab82425c393d1b
+      internalID: 744484403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_224
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd1fb06858820b478c139590b0ca04e
+      internalID: -1595502025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_225
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22170a4163d355140bc8468154ee0567
+      internalID: 1657111033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_226
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da1f8cfe34f39f4ba37d81e52ed2651
+      internalID: -1813227808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_227
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01636205f6941e438be89454182bd48
+      internalID: 379347324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_228
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd473d506e6cf24cbc4ff2051d37cd6
+      internalID: -659127543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_229
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e097ba0bd069549babfa34eb843101
+      internalID: -1844164830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_230
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e23489b34a4304f9b0db8cdc6d7374
+      internalID: -1343182286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_231
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186749f6464c7504185ca7aee279cb62
+      internalID: -524177302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_232
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f5db220836a7443ae12898bcb74233
+      internalID: -1960419041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_233
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafe2acce8b3c164684678259ea7dd15
+      internalID: 1271590314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_234
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c815cab54942ab644b7d721c063efbc4
+      internalID: 981786316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_235
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9add5f79a917e8249b1c6a92b45e67d2
+      internalID: 920502905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_238
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dae0a9a0dfe9cf42b534fe5085165d2
+      internalID: -405937678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_239
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4b500809b349a4082db4dbb93d87ce
+      internalID: -504287551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_240
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fe452e50db03c43a0762d4fef461d2
+      internalID: 1231639918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_241
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd990c2849eaca4a9aff55f07cdc8bd
+      internalID: -1702450115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_242
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5916a1b63d95e994abeb165863ea95b4
+      internalID: 551792086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_243
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97d6f7f7b09c4546ba61262012ce134
+      internalID: -166285962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_244
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0959d1ddd3338254d87da8bc9c775ae3
+      internalID: -1236594563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_245
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76978fc6173ea1d4daca5eaec3764a72
+      internalID: 2141474207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_250
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 80
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dff2cf07e756fa489b5cd294ca8f775
+      internalID: -863602509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_251
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa1244142d587c4db2f848641dafb90
+      internalID: 123703031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_252
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d8029fee3856044a32b12791ffcfed
+      internalID: 630026643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_253
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876b519504974fd49b0736658904d682
+      internalID: 605097173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_254
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864c99595d1b51346922ace3383a3a3b
+      internalID: -374525920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_257
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fc1e4cd4d045148b8395d0443ab98e
+      internalID: -440886079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_263
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db05cae6b975dfd4ab67e90e0a7ee3dc
+      internalID: -1271134976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_266
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef82089715c1c244a895f1078ec4b7b
+      internalID: -219777720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_269
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1333014e86b92749aa5bb443f8c60e9
+      internalID: 182174537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_272
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d1ce7350a833f4c969a59d51ad8ad7
+      internalID: -1465377541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_275
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34f63d8cb3f0d447be11ca20c9d18c5
+      internalID: -695087519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_278
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b66444f90687f45b8a7af4bc100e73
+      internalID: -1524236411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_281
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac9c59a2d2d9ac4ea558756c2f2d88b
+      internalID: 919532071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_284
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c693535d6d26545863dadaeefa40b2
+      internalID: 746108157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_287
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f15e3597977fae42a27552fd442e0c4
+      internalID: 592095378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 65
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3e15b3ebc6c5e4aa2136507550ac92
+      internalID: -1336867096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_29
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 64
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef35647511c11b64dbfa0cd98ece27bb
+      internalID: 760304707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_30
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5424b84fc3f52e4884cc446e7ba3b12
+      internalID: 1355545263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_31
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 64
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed53125b038f4f49b940e770b954b7e
+      internalID: 1556550135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d348f8387e93e4ab01a03d80d59ff1
+      internalID: 1354756398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_46
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 64
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e6cfb1b8f11164d9c85dd4961ee47f
+      internalID: -243018780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset Grass Cliff Tileset Spring_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e8989e94312134f9daa5ba1628f1f3
+      internalID: -378427605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 012550097d74f4c4dadebe4e4941f7e0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset Grass Cliff Tileset Spring_0: -3276809509469408922
+      Tileset Grass Cliff Tileset Spring_1: 351560878568794475
+      Tileset Grass Cliff Tileset Spring_10: 1183112647
+      Tileset Grass Cliff Tileset Spring_100: -2056102466
+      Tileset Grass Cliff Tileset Spring_101: -1503920070
+      Tileset Grass Cliff Tileset Spring_102: -860157818
+      Tileset Grass Cliff Tileset Spring_103: -810714534
+      Tileset Grass Cliff Tileset Spring_104: 1723485519
+      Tileset Grass Cliff Tileset Spring_105: -1884848861
+      Tileset Grass Cliff Tileset Spring_106: 577579882
+      Tileset Grass Cliff Tileset Spring_107: 1891948989
+      Tileset Grass Cliff Tileset Spring_108: -1441239408
+      Tileset Grass Cliff Tileset Spring_109: -1408283621
+      Tileset Grass Cliff Tileset Spring_11: 1258008505
+      Tileset Grass Cliff Tileset Spring_110: 369762340
+      Tileset Grass Cliff Tileset Spring_111: -487842842
+      Tileset Grass Cliff Tileset Spring_112: 7328097
+      Tileset Grass Cliff Tileset Spring_113: 895542379
+      Tileset Grass Cliff Tileset Spring_114: 1096552091
+      Tileset Grass Cliff Tileset Spring_115: -193980852
+      Tileset Grass Cliff Tileset Spring_116: 1173627322
+      Tileset Grass Cliff Tileset Spring_117: 294011017
+      Tileset Grass Cliff Tileset Spring_118: 1252838288
+      Tileset Grass Cliff Tileset Spring_119: 534873484
+      Tileset Grass Cliff Tileset Spring_12: -1043588057
+      Tileset Grass Cliff Tileset Spring_120: 796505027
+      Tileset Grass Cliff Tileset Spring_121: 1175431198
+      Tileset Grass Cliff Tileset Spring_122: -1663626901
+      Tileset Grass Cliff Tileset Spring_123: -751156983
+      Tileset Grass Cliff Tileset Spring_124: -1163536884
+      Tileset Grass Cliff Tileset Spring_125: 1923178659
+      Tileset Grass Cliff Tileset Spring_126: 1653107192
+      Tileset Grass Cliff Tileset Spring_127: 2126616161
+      Tileset Grass Cliff Tileset Spring_128: -2056708515
+      Tileset Grass Cliff Tileset Spring_129: -804798996
+      Tileset Grass Cliff Tileset Spring_13: 947554717
+      Tileset Grass Cliff Tileset Spring_130: 2140198769
+      Tileset Grass Cliff Tileset Spring_131: 534750080
+      Tileset Grass Cliff Tileset Spring_132: -1490397338
+      Tileset Grass Cliff Tileset Spring_133: 277355050
+      Tileset Grass Cliff Tileset Spring_134: 1889232844
+      Tileset Grass Cliff Tileset Spring_135: -1952828103
+      Tileset Grass Cliff Tileset Spring_136: -1101580473
+      Tileset Grass Cliff Tileset Spring_137: -1874932259
+      Tileset Grass Cliff Tileset Spring_138: 837523818
+      Tileset Grass Cliff Tileset Spring_139: 527932324
+      Tileset Grass Cliff Tileset Spring_14: -1272985365
+      Tileset Grass Cliff Tileset Spring_140: -368945535
+      Tileset Grass Cliff Tileset Spring_141: 1637410022
+      Tileset Grass Cliff Tileset Spring_142: 566162328
+      Tileset Grass Cliff Tileset Spring_143: -1425004479
+      Tileset Grass Cliff Tileset Spring_144: 252100281
+      Tileset Grass Cliff Tileset Spring_145: 1520417641
+      Tileset Grass Cliff Tileset Spring_146: -891355244
+      Tileset Grass Cliff Tileset Spring_147: -453624681
+      Tileset Grass Cliff Tileset Spring_148: -923402715
+      Tileset Grass Cliff Tileset Spring_149: 1410978386
+      Tileset Grass Cliff Tileset Spring_15: -1588647557
+      Tileset Grass Cliff Tileset Spring_150: 1597446951
+      Tileset Grass Cliff Tileset Spring_151: 1845056211
+      Tileset Grass Cliff Tileset Spring_152: -1012345005
+      Tileset Grass Cliff Tileset Spring_153: 989157720
+      Tileset Grass Cliff Tileset Spring_154: -133386087
+      Tileset Grass Cliff Tileset Spring_155: -832768870
+      Tileset Grass Cliff Tileset Spring_156: -7925128
+      Tileset Grass Cliff Tileset Spring_157: 1755574054
+      Tileset Grass Cliff Tileset Spring_158: -652772124
+      Tileset Grass Cliff Tileset Spring_159: 229651282
+      Tileset Grass Cliff Tileset Spring_16: -56075147
+      Tileset Grass Cliff Tileset Spring_160: 1518223233
+      Tileset Grass Cliff Tileset Spring_161: -1408029544
+      Tileset Grass Cliff Tileset Spring_162: -1191217275
+      Tileset Grass Cliff Tileset Spring_163: 476011254
+      Tileset Grass Cliff Tileset Spring_164: 137015164
+      Tileset Grass Cliff Tileset Spring_165: -926754990
+      Tileset Grass Cliff Tileset Spring_166: 881088398
+      Tileset Grass Cliff Tileset Spring_167: 1616733622
+      Tileset Grass Cliff Tileset Spring_168: 42712175
+      Tileset Grass Cliff Tileset Spring_169: 1320176720
+      Tileset Grass Cliff Tileset Spring_17: -1285378396
+      Tileset Grass Cliff Tileset Spring_170: 879411442
+      Tileset Grass Cliff Tileset Spring_171: 1916237992
+      Tileset Grass Cliff Tileset Spring_172: 1733533692
+      Tileset Grass Cliff Tileset Spring_173: 1892394027
+      Tileset Grass Cliff Tileset Spring_174: 1896697101
+      Tileset Grass Cliff Tileset Spring_175: 1449565835
+      Tileset Grass Cliff Tileset Spring_176: -383201950
+      Tileset Grass Cliff Tileset Spring_177: 429606464
+      Tileset Grass Cliff Tileset Spring_178: 637779128
+      Tileset Grass Cliff Tileset Spring_179: -1249076707
+      Tileset Grass Cliff Tileset Spring_18: -840289829
+      Tileset Grass Cliff Tileset Spring_180: 1024909827
+      Tileset Grass Cliff Tileset Spring_181: 405249835
+      Tileset Grass Cliff Tileset Spring_182: 1147484657
+      Tileset Grass Cliff Tileset Spring_183: -159352158
+      Tileset Grass Cliff Tileset Spring_184: 931208226
+      Tileset Grass Cliff Tileset Spring_185: -80258948
+      Tileset Grass Cliff Tileset Spring_186: 899782446
+      Tileset Grass Cliff Tileset Spring_187: -627184249
+      Tileset Grass Cliff Tileset Spring_188: 240676002
+      Tileset Grass Cliff Tileset Spring_189: 1643285610
+      Tileset Grass Cliff Tileset Spring_19: -1700149592
+      Tileset Grass Cliff Tileset Spring_190: 807341493
+      Tileset Grass Cliff Tileset Spring_191: -1570536942
+      Tileset Grass Cliff Tileset Spring_192: -970643922
+      Tileset Grass Cliff Tileset Spring_193: 171835731
+      Tileset Grass Cliff Tileset Spring_194: 1861821321
+      Tileset Grass Cliff Tileset Spring_195: 1845377251
+      Tileset Grass Cliff Tileset Spring_196: -846299426
+      Tileset Grass Cliff Tileset Spring_197: -490523840
+      Tileset Grass Cliff Tileset Spring_198: -1616807441
+      Tileset Grass Cliff Tileset Spring_199: 1401971331
+      Tileset Grass Cliff Tileset Spring_2: 822564991
+      Tileset Grass Cliff Tileset Spring_20: -1721404074
+      Tileset Grass Cliff Tileset Spring_200: -1211686283
+      Tileset Grass Cliff Tileset Spring_201: 1457302435
+      Tileset Grass Cliff Tileset Spring_202: 105841154
+      Tileset Grass Cliff Tileset Spring_203: -1261218004
+      Tileset Grass Cliff Tileset Spring_204: -928392338
+      Tileset Grass Cliff Tileset Spring_205: -1446519859
+      Tileset Grass Cliff Tileset Spring_206: 1921089388
+      Tileset Grass Cliff Tileset Spring_207: 753398268
+      Tileset Grass Cliff Tileset Spring_208: 1768837932
+      Tileset Grass Cliff Tileset Spring_209: 16140654
+      Tileset Grass Cliff Tileset Spring_21: -602527279
+      Tileset Grass Cliff Tileset Spring_210: 74327096
+      Tileset Grass Cliff Tileset Spring_211: -1118173431
+      Tileset Grass Cliff Tileset Spring_212: 1082905409
+      Tileset Grass Cliff Tileset Spring_213: -304188962
+      Tileset Grass Cliff Tileset Spring_214: -1918393384
+      Tileset Grass Cliff Tileset Spring_215: -408165417
+      Tileset Grass Cliff Tileset Spring_216: -359347839
+      Tileset Grass Cliff Tileset Spring_217: 1444758118
+      Tileset Grass Cliff Tileset Spring_218: 991369280
+      Tileset Grass Cliff Tileset Spring_219: -1137562385
+      Tileset Grass Cliff Tileset Spring_22: -831323075
+      Tileset Grass Cliff Tileset Spring_220: -588181353
+      Tileset Grass Cliff Tileset Spring_221: -651415715
+      Tileset Grass Cliff Tileset Spring_222: -78824972
+      Tileset Grass Cliff Tileset Spring_223: 744484403
+      Tileset Grass Cliff Tileset Spring_224: -1595502025
+      Tileset Grass Cliff Tileset Spring_225: 1657111033
+      Tileset Grass Cliff Tileset Spring_226: -1813227808
+      Tileset Grass Cliff Tileset Spring_227: 379347324
+      Tileset Grass Cliff Tileset Spring_228: -659127543
+      Tileset Grass Cliff Tileset Spring_229: -1844164830
+      Tileset Grass Cliff Tileset Spring_23: 1758463833
+      Tileset Grass Cliff Tileset Spring_230: -1343182286
+      Tileset Grass Cliff Tileset Spring_231: -524177302
+      Tileset Grass Cliff Tileset Spring_232: -1960419041
+      Tileset Grass Cliff Tileset Spring_233: 1271590314
+      Tileset Grass Cliff Tileset Spring_234: 981786316
+      Tileset Grass Cliff Tileset Spring_235: 920502905
+      Tileset Grass Cliff Tileset Spring_236: 1770596833
+      Tileset Grass Cliff Tileset Spring_237: -571706986
+      Tileset Grass Cliff Tileset Spring_238: -405937678
+      Tileset Grass Cliff Tileset Spring_239: -504287551
+      Tileset Grass Cliff Tileset Spring_24: -1353914031
+      Tileset Grass Cliff Tileset Spring_240: 1231639918
+      Tileset Grass Cliff Tileset Spring_241: -1702450115
+      Tileset Grass Cliff Tileset Spring_242: 551792086
+      Tileset Grass Cliff Tileset Spring_243: -166285962
+      Tileset Grass Cliff Tileset Spring_244: -1236594563
+      Tileset Grass Cliff Tileset Spring_245: 2141474207
+      Tileset Grass Cliff Tileset Spring_246: 1335426024
+      Tileset Grass Cliff Tileset Spring_247: 1599099724
+      Tileset Grass Cliff Tileset Spring_248: 413061526
+      Tileset Grass Cliff Tileset Spring_249: -2071607359
+      Tileset Grass Cliff Tileset Spring_25: 648634979
+      Tileset Grass Cliff Tileset Spring_250: -863602509
+      Tileset Grass Cliff Tileset Spring_251: 123703031
+      Tileset Grass Cliff Tileset Spring_252: 630026643
+      Tileset Grass Cliff Tileset Spring_253: 605097173
+      Tileset Grass Cliff Tileset Spring_254: -374525920
+      Tileset Grass Cliff Tileset Spring_255: -630852657
+      Tileset Grass Cliff Tileset Spring_256: -2055008538
+      Tileset Grass Cliff Tileset Spring_257: -440886079
+      Tileset Grass Cliff Tileset Spring_258: -1472756475
+      Tileset Grass Cliff Tileset Spring_259: 1212216348
+      Tileset Grass Cliff Tileset Spring_26: -183984249
+      Tileset Grass Cliff Tileset Spring_260: 686756857
+      Tileset Grass Cliff Tileset Spring_261: 2004074897
+      Tileset Grass Cliff Tileset Spring_262: -800736235
+      Tileset Grass Cliff Tileset Spring_263: -1271134976
+      Tileset Grass Cliff Tileset Spring_264: -2034643151
+      Tileset Grass Cliff Tileset Spring_265: -171229817
+      Tileset Grass Cliff Tileset Spring_266: -219777720
+      Tileset Grass Cliff Tileset Spring_267: -2049442036
+      Tileset Grass Cliff Tileset Spring_268: -1467663243
+      Tileset Grass Cliff Tileset Spring_269: 182174537
+      Tileset Grass Cliff Tileset Spring_27: -1249900792
+      Tileset Grass Cliff Tileset Spring_270: -1708725076
+      Tileset Grass Cliff Tileset Spring_271: -1081459845
+      Tileset Grass Cliff Tileset Spring_272: -1465377541
+      Tileset Grass Cliff Tileset Spring_273: -113319663
+      Tileset Grass Cliff Tileset Spring_274: 2103569012
+      Tileset Grass Cliff Tileset Spring_275: -695087519
+      Tileset Grass Cliff Tileset Spring_276: -394834345
+      Tileset Grass Cliff Tileset Spring_277: 1591255925
+      Tileset Grass Cliff Tileset Spring_278: -1524236411
+      Tileset Grass Cliff Tileset Spring_279: 2045613102
+      Tileset Grass Cliff Tileset Spring_28: -1336867096
+      Tileset Grass Cliff Tileset Spring_280: -1378908924
+      Tileset Grass Cliff Tileset Spring_281: 919532071
+      Tileset Grass Cliff Tileset Spring_282: -1807085189
+      Tileset Grass Cliff Tileset Spring_283: -1062937762
+      Tileset Grass Cliff Tileset Spring_284: 746108157
+      Tileset Grass Cliff Tileset Spring_285: -613497350
+      Tileset Grass Cliff Tileset Spring_286: -1052052600
+      Tileset Grass Cliff Tileset Spring_287: 592095378
+      Tileset Grass Cliff Tileset Spring_288: 738643573
+      Tileset Grass Cliff Tileset Spring_289: 1864121991
+      Tileset Grass Cliff Tileset Spring_29: 760304707
+      Tileset Grass Cliff Tileset Spring_290: -162050928
+      Tileset Grass Cliff Tileset Spring_291: 1119702229
+      Tileset Grass Cliff Tileset Spring_292: 14308950
+      Tileset Grass Cliff Tileset Spring_293: -818603286
+      Tileset Grass Cliff Tileset Spring_294: -382838984
+      Tileset Grass Cliff Tileset Spring_295: -1328288365
+      Tileset Grass Cliff Tileset Spring_296: -1810740691
+      Tileset Grass Cliff Tileset Spring_297: 1427224389
+      Tileset Grass Cliff Tileset Spring_298: -675257418
+      Tileset Grass Cliff Tileset Spring_299: 922737949
+      Tileset Grass Cliff Tileset Spring_3: 559908524
+      Tileset Grass Cliff Tileset Spring_30: 1355545263
+      Tileset Grass Cliff Tileset Spring_300: 2134200044
+      Tileset Grass Cliff Tileset Spring_301: 1319597823
+      Tileset Grass Cliff Tileset Spring_302: 343429451
+      Tileset Grass Cliff Tileset Spring_303: -1014366822
+      Tileset Grass Cliff Tileset Spring_304: 1415834315
+      Tileset Grass Cliff Tileset Spring_305: -479188225
+      Tileset Grass Cliff Tileset Spring_306: -1062644929
+      Tileset Grass Cliff Tileset Spring_307: -1318935578
+      Tileset Grass Cliff Tileset Spring_308: 749266791
+      Tileset Grass Cliff Tileset Spring_309: 575971942
+      Tileset Grass Cliff Tileset Spring_31: 1556550135
+      Tileset Grass Cliff Tileset Spring_310: 178194503
+      Tileset Grass Cliff Tileset Spring_311: 1739743204
+      Tileset Grass Cliff Tileset Spring_312: 1157584806
+      Tileset Grass Cliff Tileset Spring_313: 1915138760
+      Tileset Grass Cliff Tileset Spring_314: -908632478
+      Tileset Grass Cliff Tileset Spring_315: -420380208
+      Tileset Grass Cliff Tileset Spring_316: 472171923
+      Tileset Grass Cliff Tileset Spring_317: 1175269324
+      Tileset Grass Cliff Tileset Spring_318: -1213599416
+      Tileset Grass Cliff Tileset Spring_319: -1735750139
+      Tileset Grass Cliff Tileset Spring_32: 1354756398
+      Tileset Grass Cliff Tileset Spring_320: 1986840785
+      Tileset Grass Cliff Tileset Spring_321: 624177010
+      Tileset Grass Cliff Tileset Spring_322: -862744158
+      Tileset Grass Cliff Tileset Spring_323: -1555577764
+      Tileset Grass Cliff Tileset Spring_324: -1302861415
+      Tileset Grass Cliff Tileset Spring_325: 969914887
+      Tileset Grass Cliff Tileset Spring_326: -1132461915
+      Tileset Grass Cliff Tileset Spring_327: -318488581
+      Tileset Grass Cliff Tileset Spring_328: -2081112731
+      Tileset Grass Cliff Tileset Spring_329: -2125651345
+      Tileset Grass Cliff Tileset Spring_33: 1765762549
+      Tileset Grass Cliff Tileset Spring_330: 1075118027
+      Tileset Grass Cliff Tileset Spring_331: 320701331
+      Tileset Grass Cliff Tileset Spring_332: -621427058
+      Tileset Grass Cliff Tileset Spring_333: 252745374
+      Tileset Grass Cliff Tileset Spring_334: 176301031
+      Tileset Grass Cliff Tileset Spring_335: -1419654288
+      Tileset Grass Cliff Tileset Spring_336: -1798311277
+      Tileset Grass Cliff Tileset Spring_337: -404448366
+      Tileset Grass Cliff Tileset Spring_338: -1491467560
+      Tileset Grass Cliff Tileset Spring_339: 59237955
+      Tileset Grass Cliff Tileset Spring_34: -26491374
+      Tileset Grass Cliff Tileset Spring_340: -32243070
+      Tileset Grass Cliff Tileset Spring_341: -1127050445
+      Tileset Grass Cliff Tileset Spring_342: 1885093615
+      Tileset Grass Cliff Tileset Spring_343: -1240819739
+      Tileset Grass Cliff Tileset Spring_344: 2028032749
+      Tileset Grass Cliff Tileset Spring_345: -1505901433
+      Tileset Grass Cliff Tileset Spring_346: -1487629071
+      Tileset Grass Cliff Tileset Spring_347: 1136130485
+      Tileset Grass Cliff Tileset Spring_348: 1824768842
+      Tileset Grass Cliff Tileset Spring_349: -1661789480
+      Tileset Grass Cliff Tileset Spring_35: 1983769518
+      Tileset Grass Cliff Tileset Spring_350: 1750850386
+      Tileset Grass Cliff Tileset Spring_351: -1474658657
+      Tileset Grass Cliff Tileset Spring_352: 683182602
+      Tileset Grass Cliff Tileset Spring_353: -318594272
+      Tileset Grass Cliff Tileset Spring_354: -1740641231
+      Tileset Grass Cliff Tileset Spring_355: -1816093812
+      Tileset Grass Cliff Tileset Spring_356: -310346513
+      Tileset Grass Cliff Tileset Spring_357: -419241506
+      Tileset Grass Cliff Tileset Spring_358: 721609871
+      Tileset Grass Cliff Tileset Spring_359: -483031399
+      Tileset Grass Cliff Tileset Spring_36: 1128278147
+      Tileset Grass Cliff Tileset Spring_360: -401069972
+      Tileset Grass Cliff Tileset Spring_361: -1559149325
+      Tileset Grass Cliff Tileset Spring_362: 1501038786
+      Tileset Grass Cliff Tileset Spring_37: -1566728641
+      Tileset Grass Cliff Tileset Spring_38: 1010800100
+      Tileset Grass Cliff Tileset Spring_39: 1517063607
+      Tileset Grass Cliff Tileset Spring_4: -1567574383
+      Tileset Grass Cliff Tileset Spring_40: -1356413474
+      Tileset Grass Cliff Tileset Spring_41: 1532174258
+      Tileset Grass Cliff Tileset Spring_42: 985373853
+      Tileset Grass Cliff Tileset Spring_43: 61928980
+      Tileset Grass Cliff Tileset Spring_44: 376763133
+      Tileset Grass Cliff Tileset Spring_45: 47865434
+      Tileset Grass Cliff Tileset Spring_46: -243018780
+      Tileset Grass Cliff Tileset Spring_47: -1202602808
+      Tileset Grass Cliff Tileset Spring_48: -378427605
+      Tileset Grass Cliff Tileset Spring_49: -759931275
+      Tileset Grass Cliff Tileset Spring_5: 827548553
+      Tileset Grass Cliff Tileset Spring_50: 1417578196
+      Tileset Grass Cliff Tileset Spring_51: -232574177
+      Tileset Grass Cliff Tileset Spring_52: 176393797
+      Tileset Grass Cliff Tileset Spring_53: 1982267675
+      Tileset Grass Cliff Tileset Spring_54: -1574417961
+      Tileset Grass Cliff Tileset Spring_55: 1464058100
+      Tileset Grass Cliff Tileset Spring_56: 1347713228
+      Tileset Grass Cliff Tileset Spring_57: 195414299
+      Tileset Grass Cliff Tileset Spring_58: 112264849
+      Tileset Grass Cliff Tileset Spring_59: -1278507677
+      Tileset Grass Cliff Tileset Spring_6: 247073594
+      Tileset Grass Cliff Tileset Spring_60: 1189350935
+      Tileset Grass Cliff Tileset Spring_61: 1428095683
+      Tileset Grass Cliff Tileset Spring_62: -1878006065
+      Tileset Grass Cliff Tileset Spring_63: -1922846786
+      Tileset Grass Cliff Tileset Spring_64: -275638414
+      Tileset Grass Cliff Tileset Spring_65: 453152591
+      Tileset Grass Cliff Tileset Spring_66: -1264923606
+      Tileset Grass Cliff Tileset Spring_67: 702475896
+      Tileset Grass Cliff Tileset Spring_68: 1907262266
+      Tileset Grass Cliff Tileset Spring_69: 268302383
+      Tileset Grass Cliff Tileset Spring_7: -482252402
+      Tileset Grass Cliff Tileset Spring_70: 1474876582
+      Tileset Grass Cliff Tileset Spring_71: 352456478
+      Tileset Grass Cliff Tileset Spring_72: -827042859
+      Tileset Grass Cliff Tileset Spring_73: -1539424646
+      Tileset Grass Cliff Tileset Spring_74: 442467671
+      Tileset Grass Cliff Tileset Spring_75: -878280708
+      Tileset Grass Cliff Tileset Spring_76: 371180863
+      Tileset Grass Cliff Tileset Spring_77: -216912728
+      Tileset Grass Cliff Tileset Spring_78: -838487641
+      Tileset Grass Cliff Tileset Spring_79: -1886390597
+      Tileset Grass Cliff Tileset Spring_8: 1536122226
+      Tileset Grass Cliff Tileset Spring_80: 1045659535
+      Tileset Grass Cliff Tileset Spring_81: 2044152341
+      Tileset Grass Cliff Tileset Spring_82: 1701562109
+      Tileset Grass Cliff Tileset Spring_83: 2079593748
+      Tileset Grass Cliff Tileset Spring_84: -497465509
+      Tileset Grass Cliff Tileset Spring_85: 788370571
+      Tileset Grass Cliff Tileset Spring_86: 1392184700
+      Tileset Grass Cliff Tileset Spring_87: 1627292821
+      Tileset Grass Cliff Tileset Spring_88: -1165761521
+      Tileset Grass Cliff Tileset Spring_89: -1463035239
+      Tileset Grass Cliff Tileset Spring_9: 599498981
+      Tileset Grass Cliff Tileset Spring_90: 60564092
+      Tileset Grass Cliff Tileset Spring_91: -1241100732
+      Tileset Grass Cliff Tileset Spring_92: 1305294477
+      Tileset Grass Cliff Tileset Spring_93: 723142214
+      Tileset Grass Cliff Tileset Spring_94: -261601049
+      Tileset Grass Cliff Tileset Spring_95: -1947130552
+      Tileset Grass Cliff Tileset Spring_96: -1424848321
+      Tileset Grass Cliff Tileset Spring_97: -786240354
+      Tileset Grass Cliff Tileset Spring_98: 1451776173
+      Tileset Grass Cliff Tileset Spring_99: 482164302
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
