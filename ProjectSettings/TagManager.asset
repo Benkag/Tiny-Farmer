@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Character
+  - Tree
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - character
+  - Tree
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 1101020905
+    locked: 0
+  - name: Grass
+    uniqueID: 36437847
+    locked: 0
+  - name: Tree
+    uniqueID: 540015415
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tree_Trunk
+    uniqueID: 2632693099
+    locked: 0
+  - name: Player
+    uniqueID: 2117507077
+    locked: 0
+  - name: Tree_Top
+    uniqueID: 1215529595
+    locked: 0
+  m_RenderingLayers:
+  - Default
