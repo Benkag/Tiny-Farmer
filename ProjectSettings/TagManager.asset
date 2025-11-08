@@ -15,7 +15,7 @@ TagManager:
   - UI
   - character
   - Tree
-  - 
+  - Building
   - 
   - 
   - 
@@ -46,20 +46,23 @@ TagManager:
   - name: Grass
     uniqueID: 36437847
     locked: 0
+  - name: Road
+    uniqueID: 3718311429
+    locked: 0
   - name: Tree
     uniqueID: 540015415
     locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Tree_Trunk
-    uniqueID: 2632693099
-    locked: 0
   - name: Player
     uniqueID: 2117507077
     locked: 0
-  - name: Tree_Top
+  - name: Rock
     uniqueID: 1215529595
+    locked: 0
+  - name: Building
+    uniqueID: 1448480705
     locked: 0
   m_RenderingLayers:
   - Default
