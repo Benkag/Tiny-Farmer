@@ -3,9 +3,12 @@ using UnityEngine;
 public class ClickChop : MonoBehaviour
 {
     public Camera mainCam;
-    public float chopDistance = 2f;
+    public float chopDistance = 5f;
     public LayerMask chopMask; // Layer chứa cây/gốc
-
+    public Animator playerAnimator;
+    public string chopTrigger = "TreeAxe";
+    public string moveXParam = "MoveX";
+    public string moveYParam = "MoveY";
     void Update()
     {
     if (Input.GetMouseButtonDown(0))   // phải là GetMouseButtonDown
@@ -51,6 +54,52 @@ public class ClickChop : MonoBehaviour
         }
 
         Debug.Log("[ClickChop] Chặt: " + tree.name);
+        if (playerAnimator && !string.IsNullOrEmpty(chopTrigger))
+        {
+            playerAnimator.ResetTrigger(chopTrigger);
+            playerAnimator.SetTrigger(chopTrigger);
+        }
+        Debug.Log("[ClickChop] Chặt: " + tree.name);
+
+        // 1) Tính hướng từ player -> cây
+         Vector2 dir = (tree.transform.position - transform.position);
+
+         // 2) Quy về 4 hướng
+         if (Mathf.Abs(dir.x) > Mathf.Abs(dir.y))
+          {
+         // ngang
+         dir.x = dir.x > 0 ? 1f : -1f;
+        dir.y = 0f;
+         }
+         else
+        {
+         // dọc
+        dir.y = dir.y > 0 ? 1f : -1f;
+        dir.x = 0f;
+        }
+
+        // 3) Set hướng cho Blend Tree TreeAxe
+        if (playerAnimator)
+        {
+        if (!string.IsNullOrEmpty(moveXParam))
+        playerAnimator.SetFloat(moveXParam, dir.x);
+
+        if (!string.IsNullOrEmpty(moveYParam))
+        playerAnimator.SetFloat(moveYParam, dir.y);
+
+        // (nếu Idle/Walk dùng LastX/LastY thì set thêm ở đây tương tự)
+     // playerAnimator.SetFloat("LastX", dir.x);
+        // playerAnimator.SetFloat("LastY", dir.y);
+
+        // 4) Trigger anim chặt
+        if (!string.IsNullOrEmpty(chopTrigger))
+        {
+        playerAnimator.ResetTrigger(chopTrigger);
+        playerAnimator.SetTrigger(chopTrigger);
+     }
+        }
+
+    // 5) Gọi chặt cây
         tree.Hit();
     }
 }

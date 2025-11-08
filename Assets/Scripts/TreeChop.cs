@@ -9,7 +9,7 @@ public class TreeChop : MonoBehaviour
     [Header("Drop Wood")]
     public GameObject logPrefab;      // Gán prefab gỗ vào đây
     public int logAmount = 2;         // Số gỗ rơi
-    public float dropRadius = 0.4f;   // Bán kính rơi quanh cây
+    public float dropRadius = 0.8f;   // Bán kính rơi quanh cây
 
     [Header("Animation")]
     public Animator animator;          // Gán Animator cây
